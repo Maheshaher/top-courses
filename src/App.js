@@ -35,7 +35,7 @@ function App() {
       <div>
         <Navbar></Navbar>
       </div>
-      <div className="bg-slate-500">
+      <div className="bg-slate-400">
         <div>
           <Filter
             filterData={fdata}
